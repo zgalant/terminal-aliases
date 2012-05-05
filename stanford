@@ -1,0 +1,4 @@
+alias corn='ssh zgalant@corn'
+alias corny='ssh -Y zgalant@corn'
+alias myth='ssh zgalant@myth'
+alias mythy='ssh -Y zgalant@myth'

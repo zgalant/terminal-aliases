@@ -1,0 +1,2 @@
+alias hserver='cd ~/Desktop/codehs/codehs; sudo python manage.py runserver;'
+alias migrate='python manage.py syncdb; python manage.py migrate;'

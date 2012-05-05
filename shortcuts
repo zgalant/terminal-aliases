@@ -5,3 +5,5 @@ alias la='ls -a'
 
 alias py='python'
 alias pyserver='python -m SimpleHTTPServer'
+
+alias mql="mysql -u root"

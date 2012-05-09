@@ -2,3 +2,8 @@
 alias hs='cd ~/Desktop/codehs/codehs'
 alias bg='cd ~/Dropbox/School/B/web'
 alias bw='cd ~/Dropbox/School/B/web; mate WWW;'
+alias tb="cd ~/Dropbox/Tera\ Byte/terabyte"
+alias zg="cd ~/Dropbox/Projects/zachgalant"
+
+alias tbserver='ssh zgalant_terabyte@ssh.phx.nearlyfreespeech.net'
+alias zgserver='ssh zgalant_terabyte@ssh.phx.nearlyfreespeech.net'

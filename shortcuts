@@ -7,3 +7,6 @@ alias py='python'
 alias pyserver='python -m SimpleHTTPServer'
 
 alias mql="mysql -u root"
+
+alias s="subl"
+alias m="mate"

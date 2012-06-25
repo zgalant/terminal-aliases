@@ -10,3 +10,5 @@ alias mql="mysql -u root"
 
 alias s="subl"
 alias m="mate"
+
+alias shp="./manage.py shell_plus"

@@ -11,6 +11,7 @@ alias gb='git branch'
 alias gd='git diff'
 alias gdw='git diff --word-diff'
 alias gl='git log --oneline --decorate'
+alias gld='git log master..origin/master --oneline --decorate'
 alias gln='git ls-files | xargs wc -l'
 
 alias gpom='git push origin master'

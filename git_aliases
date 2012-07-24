@@ -21,3 +21,5 @@ alias gpod='git push origin dev'
 alias gmod='git merge origin/dev'
 alias gpwm='git push web master'
 alias gphm='git push heroku master'
+
+alias gm='git merge'

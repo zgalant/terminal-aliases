@@ -13,4 +13,4 @@ alias m="mate"
 
 alias shp="./manage.py shell_plus"
 
-alias workout="cd ~/Dropbox/Projects/lifelog; s exercise/utils.py; shp;"
+alias workout="cd ~/Dropbox/Projects/lifelog; s exercise/utils.py;"

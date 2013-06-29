@@ -1,5 +1,5 @@
 # current useful directories
-alias hs='workon codehs; cd ~/Desktop/codehs/codehs'
+alias hs='workon codehs; cd ~/Desktop/chs/codehs/codehs'
 alias bg='cd ~/Dropbox/School/B/web'
 alias bw='cd ~/Dropbox/School/B/web; mate WWW;'
 alias tb="cd ~/Dropbox/Tera\ Byte/terabyte"

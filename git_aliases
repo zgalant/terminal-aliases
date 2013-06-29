@@ -17,10 +17,13 @@ alias gln='git ls-files | xargs wc -l'
 
 alias gpom='git push origin master'
 alias gmom='git merge origin/master'
-alias gpod='git push origin dev'
-alias gmod='git merge origin/dev'
+
 alias gpwm='git push web master'
 alias gphm='git push heroku master'
+
+alias gpum='git push upstream master'
+alias gmum='git merge upstream/master'
+alias gfu='git fetch upstream'
 
 alias gpo='git push origin'
 

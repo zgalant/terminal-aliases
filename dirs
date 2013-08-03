@@ -5,6 +5,7 @@ alias bw='cd ~/Dropbox/School/B/web; mate WWW;'
 alias tb="cd ~/Dropbox/Tera\ Byte/terabyte"
 alias zg="cd ~/Dropbox/Projects/zachgalant"
 alias blog="cd ~/Dropbox/Projects/octopress"
+alias budget='workon budget; cd ~/Dropbox/Projects/budget/budget'
 
 alias tbserver='ssh zgalant_terabyte@ssh.phx.nearlyfreespeech.net'
 alias zgserver='ssh zgalant_terabyte@ssh.phx.nearlyfreespeech.net'

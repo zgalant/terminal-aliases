@@ -1,3 +1,6 @@
 alias hserver='workon codehs; cd ~/Desktop/chs/codehs/codehs; ./manage.py runserver;'
 alias migrate='python manage.py syncdb; python manage.py migrate;'
 alias dp='ssh deploy@codehs.com'
+alias segway='ssh deploy@codehs.com'
+alias chserver='workon codehs; cd ~/codehs/codehs; ./manage.py runserver'
+alias chs='workon codehs; cd ~/codehs/codehs;'

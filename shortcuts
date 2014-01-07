@@ -6,11 +6,13 @@ alias la='ls -a'
 alias py='python'
 alias pyserver='python -m SimpleHTTPServer'
 
-alias mql="mysql -u root"
+alias mql="mysql -uroot"
 
 alias s="subl"
 alias m="mate"
 
 alias shp="./manage.py shell_plus"
+alias shell="./manage.py shell_plus"
+alias server="./manage.py runserver"
 
 alias workout="cd ~/Dropbox/Projects/lifelog; s exercise/utils.py;"

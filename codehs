@@ -5,3 +5,5 @@ alias segway='ssh deploy@codehs.com'
 alias chserver='workon codehs; cd ~/codehs/codehs; ./manage.py runserver'
 alias chs='workon codehs; cd ~/codehs/codehs;'
 alias gpull='git checkout master; git fetch upstream; git merge upstream/master; git status; git push origin master; pip install -r ../requirements.txt; ./manage.py migrate'
+
+alias frozen-server='workon codehs; cd ~/codehs/codehs; USE_FROZEN=True ./manage.py runserver'

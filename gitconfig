@@ -1,0 +1,46 @@
+[user]
+	name = zgalant
+	email = zach.galant@gmail.com
+
+
+[color]
+	ui = auto
+	[color "branch"]
+		current = yellow reverse
+		local = yellow
+		remote = green
+	[color "diff"]
+		meta = yellow bold
+		frag = magenta bold
+		old = red bold
+		new = green bold
+	[color "status"]
+		added = yellow
+		changed = green
+		untracked = cyan
+
+[merge]
+	stat = true
+
+[diff]
+	mnemonicprefix = true
+	renames = copies
+
+[alias]
+	s = status
+	ch = checkout
+	c = commit -am
+	rb = rebase
+	p = push
+	f = fetch
+	m = merge
+	a = add
+	b = branch
+	d = diff
+	l = log --oneline --decorate
+	sh = stash
+	[credential]
+	helper = osxkeychain
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f

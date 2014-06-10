@@ -3,6 +3,7 @@ alias ...='cd ../..'
 alias ls="ls -FhG"
 alias ll="ls -l" # set ls to do some custom stuff
 alias la='ls -a'
+alias du='du -ch | sort -nr'
 
 alias py='python'
 alias pyserver='python -m SimpleHTTPServer'

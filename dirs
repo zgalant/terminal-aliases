@@ -9,3 +9,4 @@ alias budget='workon budget; cd ~/Dropbox/Projects/budget/budget; ./manage.py ru
 
 alias tbserver='ssh zgalant_terabyte@ssh.phx.nearlyfreespeech.net'
 alias zgserver='ssh zgalant_terabyte@ssh.phx.nearlyfreespeech.net'
+alias witwis='ssh zgalant_witwis@ssh.phx.nearlyfreespeech.net'

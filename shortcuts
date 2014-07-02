@@ -17,5 +17,6 @@ alias m="mate"
 alias shp="./manage.py shell_plus"
 alias shell="./manage.py shell_plus"
 alias server="./manage.py runserver"
+alias test="./manage.py test -v2"
 
 alias workout="cd ~/Dropbox/Projects/lifelog; s exercise/utils.py;"
